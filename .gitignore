@@ -2,4 +2,5 @@
 *.out
 __pycache__/
 images/
+spandex/
 .ipynb_checkpoints/
